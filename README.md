@@ -38,5 +38,6 @@
 
 ### 📊 Stats GitHub
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PeGrn&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PeGrn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PeGrn&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
