@@ -38,5 +38,5 @@
 
 ### 📊 Stats GitHub
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PeGrn&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=PeGrn&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
