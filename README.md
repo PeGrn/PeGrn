@@ -1,6 +1,6 @@
 <h1 align="center">Hey, moi c'est Paul-Etienne 👋</h1>
 <p align="center">
-  Data Engineer & Product Manager — je transforme la donnée en décisions, et les idées en produits.
+  Data Engineer & Product Manager, je transforme la donnée en décisions, et les idées en produits.
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/paul-etienne-guerin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -11,9 +11,9 @@
 ---
 
 ### 👨‍💻 En ce moment
-- 🏭 Data Engineer @ **Volvo Trucks** — pipelines ETL, Databricks, pilotage KPIs multi-usines
-- 🚀 Product Manager & Fondateur — **[Pose N Smile](https://posensmile.fr)** & **[PlaniTeam](https://planiteam.fr)**
-- 🎓 MSc Expert Management des SI & Data — SUPINFO Lyon (2026)
+- 🏭 Data Engineer @ **Volvo Trucks**,  pipelines ETL, Databricks, pilotage KPIs multi-usines
+- 🚀 Product Manager & Fondateur,  **[Pose N Smile](https://posensmile.fr)** & **[PlaniTeam](https://planiteam.fr)**
+- 🎓 MSc Expert Management des SI & Data | SUPINFO Lyon (2026)
 - 🔍 En veille active sur des opportunités **DPO / Chef de Projet Data**
 
 ---
