@@ -14,7 +14,6 @@
 - 🏭 Data Engineer @ **Volvo Trucks**,  pipelines ETL, Databricks, pilotage KPIs multi-usines
 - 🚀 Product Manager & Fondateur,  **[Pose N Smile](https://posensmile.fr)** & **[PlaniTeam](https://planiteam.fr)**
 - 🎓 MSc Expert Management des SI & Data | SUPINFO Lyon (2026)
-- 🔍 En veille active sur des opportunités **DPO / Chef de Projet Data**
 
 ---
 
